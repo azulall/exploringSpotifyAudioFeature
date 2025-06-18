@@ -31,3 +31,8 @@ We visualized key audio features to identify patterns in music, using color to r
 
 - `SpotifyDataSet.ipynb`: Google Colab notebook containing the analysis
 
+## How to Run
+
+1. Click on `SpotifyDataSet.ipynb` link above.
+2. Click **Open in Colab** (top bar).
+3. Run all cells in order — no external API keys needed.
