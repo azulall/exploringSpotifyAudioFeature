@@ -19,6 +19,12 @@ We visualized key audio features to identify patterns in music, using color to r
 - A scatter plot with color-coded energy to compare `danceability` vs `valence`
 - Interpretations and observations on emotional + rhythmic content in music
 
+Here are some example visualizations from the analysis:
+
+![Energy Distribution](energy_dist.png)
+![Danceability vs Valence](danceability_valence.png)
+![Danceability vs Valence + Energy](danceability_valence_energy.png)
+![Valence Distribution](valence_dist.png)
 
 ##  What I Learned
 
