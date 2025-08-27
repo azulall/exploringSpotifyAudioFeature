@@ -21,17 +21,11 @@ We visualized key audio features to identify patterns in music, using color to r
 
 Here are some example visualizations from the analysis:
 
-![Energy Distribution](images/energy_dist.png)
-![Danceability vs Valence](images/danceability_valence.png)
-![Danceability vs Valence + Energy](images/danceability_valence_energy.png)
-![Valence Distribution](images/valence_dist.png)
-
-## Outputs
-
+<img src="images/valence_dist.png" alt="Valence Distribution" width="400"/>
 <img src="images/energy_dist.png" alt="Energy Distribution" width="400"/>
 <img src="images/danceability_valence.png" alt="Danceability vs Valence" width="400"/>
 <img src="images/danceability_valence_energy.png" alt="Danceability vs Valence + Energy" width="400"/>
-<img src="images/valence_dist.png" alt="Valence Distribution" width="400"/>
+
 
 ##  What I Learned
 
